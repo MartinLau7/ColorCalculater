@@ -1,6 +1,7 @@
 # ColorCalculater
 
-#ColorCalculater/screenshot.png
+!(/ColorCalculater/screenshot.png)
+
 
 ColorCalculater 是个人休闲时间完成一个 Color Value Paint to Object-c/swift 的小工具.
 
